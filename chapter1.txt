@@ -1,1 +1,2 @@
 this is chapter 1st in main branch
+updated chapter 1 with second branch
